@@ -1,3 +1,4 @@
+Payload
 '
 ''
 `
@@ -26,7 +27,7 @@
 '''''''''''''UNION SELECT '2
 0%
 /*…*/ 
-"+               addition, concatenate (or space in url)"
+#NAME?
 ||              (double pipe) concatenate
 %               wildcard attribute indicator
 
@@ -83,7 +84,7 @@ Comments:
 
 #           Hash comment
 /*      C-style comment
--- -    SQL comment
+#NAME?
 ;%00    Nullbyte
 `           Backtick
 OR 1=1
